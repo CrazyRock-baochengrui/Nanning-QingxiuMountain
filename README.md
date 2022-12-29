@@ -12,7 +12,7 @@
 
 ## 目录介绍
 
-![目录](./md_image/catalog.png)
+![](https://jsd.cdn.zzko.cn/gh/CrazyRock-baochengrui/Nanning-QingxiuMountain@main/md_image/catalogue.png)
 
 ## 功能实现
 
