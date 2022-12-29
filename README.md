@@ -12,7 +12,7 @@
 
 ## 目录介绍
 
-![image-20221229172614556](D:\Program Files\Typora\images\image-20221229172614556.png)
+![目录](./md_image/catalog.png)
 
 ## 功能实现
 
@@ -21,9 +21,12 @@
 + **introduce**         景点介绍（以下每个文件夹均包含一个css文件夹和images文件夹，不再赘述）
 + **jianjie**                景区简介
 + **login**                  个人中心
++ **md_image**        存放README.md文件用到的图片 
 + **notice**               景区公告
 + **photo**                图片欣赏
 + **rongyu**              所获荣誉
 + **shouye**              首页
 + **strategy**            游玩攻略
 + **wenhua**            景区文化上
++ **index.html**       青秀山首页
++ **README.md**     markdown格式的说明文档
