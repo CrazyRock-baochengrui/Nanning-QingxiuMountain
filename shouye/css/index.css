@@ -8,7 +8,7 @@ ul {
     list-style: none;
 }
 
-a { 
+a {
     text-decoration: none;
 }
 
@@ -147,7 +147,7 @@ body {
     background-image: url(../images/05.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-}   
+}
 
 .footer {
     float: left;
@@ -207,7 +207,7 @@ body {
     line-height: 1.5em;
 }
 
-.footer .right dd a{
+.footer .right dd a {
     font-size: 16px;
     color: #333;
 }
@@ -224,7 +224,7 @@ body {
 }
 
 .footer .bottom .author {
-    padding-top: 34px;
+    padding-top: 48px;
 }
 
 .footer .bottom .author p {
@@ -233,10 +233,3 @@ body {
     text-align: center;
     line-height: 2em;
 }
-
-
-
-
-
-
-

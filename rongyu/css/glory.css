@@ -8,7 +8,7 @@ ul {
     list-style: none;
 }
 
-a { 
+a {
     text-decoration: none;
 }
 
@@ -74,7 +74,7 @@ body {
 .box .mian-content {
     float: left;
     width: 1000px;
-    
+
 }
 
 .mian-content .show-info {
@@ -116,8 +116,8 @@ body {
 }
 
 .zhengshu ul li img {
-    width: 320px; 
-    height: 200px; 
+    width: 320px;
+    height: 200px;
     transition: all 0.5s;
 }
 
@@ -187,7 +187,7 @@ body {
     line-height: 1.5em;
 }
 
-.footer .right dd a{
+.footer .right dd a {
     font-size: 16px;
     color: #333;
 }
@@ -213,12 +213,3 @@ body {
     text-align: center;
     line-height: 2em;
 }
-
-
-
-
-
-
-
-
-
